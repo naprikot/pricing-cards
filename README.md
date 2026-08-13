@@ -14,7 +14,7 @@ A responsive, three-tier pricing card component built with pure HTML and CSS. Th
 - **Interactive States:** Buttons feature distinct hover and focus states with subtle shadow transitions for better user experience.
 - **Modern Spacing:** Uses the Flexbox `gap` property for clean, predictable spacing without margin collapse issues.
 
-## Technologies Used
+## Built With
 
 - HTML5 (Semantic Structure)
 - CSS3 (Flexbox, Box Model, Pseudo-elements, Media Queries)
